@@ -5,6 +5,7 @@ jupyterlab
 numpy
 pandas
 matplotlib
+python-dotenv
 
 # geospacial
 tifffile
