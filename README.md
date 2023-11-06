@@ -23,3 +23,8 @@
 - [気候変動観測衛星「しきさい」(GCOM-C) — データ利用ハンドブック](https://gportal.jaxa.jp/gpr/assets/mng_upload/GCOM-C/GCOM-C_SHIKISAI_Data_Users_Handbook_jp_A1.pdf)
 - [SGLI 高次プロダクト — フォーマット説明書 ](https://gportal.jaxa.jp/gpr/assets/mng_upload/GCOM-C/SGLI_Higher_Level_Product_Format_Description_B_jp.pdf)
 - [GCOM-C SGLI HDF5 データ読込・処理方法](https://shikisai.jaxa.jp/faq/docs/GCOM-C_Products_Users_Guide_entrylevel__attach4_jp_191007.pdf)
+
+## JAXA Earth API
+
+- [JAXA Earth API](https://data.earth.jaxa.jp/ja/)
+- [JAXA Earth API for Python](https://data.earth.jaxa.jp/api/python/index.html)
