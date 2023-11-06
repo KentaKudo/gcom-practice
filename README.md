@@ -1,5 +1,12 @@
 # gcom-practice
 
+## How to run
+
+- Prepare an account on [G-Portal](https://gportal.jaxa.jp/gpr/index/index)
+- Save the account username in .env file under the `/src` directory like so: `FTP_USERNAME=<username>`
+- Run the container with `docker compose up`
+- Open `localhost:8888` on the browser
+
 ## GCOM 関連資料
 
 ### G Portal
